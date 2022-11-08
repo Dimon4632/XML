@@ -1,7 +1,5 @@
 <party>
-	<field name="favorite movie">Fight club</field>
-	<field name="favorite show">Breaking Bad</field>
-	<field name="favorite food">meat and fish</field>
-	<field name="favorite season">summer</field>
-	<field name="favorite country">Italy</field>
+	<field name="Bug 1">Block</field>
+	<field name="Bug 2">Critical</field>
+	<field name="Bug 3">Loker</field>
 </party>
