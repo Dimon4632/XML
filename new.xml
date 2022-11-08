@@ -1,0 +1,6 @@
+<party>
+	<field name="name">Dmitriy</field>
+	<field name="age">40</field>
+	<field name="cats">1</field>
+	<field name="salary">4000</field>
+</party>
